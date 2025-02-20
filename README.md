@@ -7,11 +7,8 @@
 <p align="center">
   🔭 I’m currently working at <a href="https://velorona.com/"><strong>Velorona LLC.</strong></a>
   <br>
-  <br>
   📫 How to reach me <a href="mailto:poudelrohan58@gmail.com"><strong>rohanrajpoudel@gmail.com</strong></a>
 </p>
-<br>
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -23,7 +20,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohanrajpoudel.58" height="30" width="40" />
   </a>
 </p>
-<br>
 <br>
 
 <h2 align="center">🚀 Programming Languages:</h2>
@@ -49,8 +45,6 @@
   </a>
 </p>
 
-<br>
-<br>
 
 <h2 align="center">📊 ML and Data Science:</h2>
 <p align="center">
@@ -67,8 +61,6 @@
   </a>
 </p>
 
-<br>
-<br>
 
 <h2 align="center">🔍 Automation and Testing:</h2>
 <p align="center">
@@ -81,8 +73,6 @@
   </a>
 </p>
 
-<br>
-<br>
 
 <h2 align="center">⚡ Others:</h2>
 <p align="center">
@@ -95,14 +85,11 @@
   </a>
 </p>
 
-<br>
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanrajpoudel&show_icons=true&locale=en&layout=compact" alt="rohanrajpoudel" />
 </p>
 
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanrajpoudel&show_icons=true&locale=en" alt="rohanrajpoudel" />
